@@ -1,0 +1,53 @@
+
+  /* Question 1 */
+
+  #question11{
+      background-color:#2874A6;
+      color:white;
+      padding:10px;
+      border-radius:20px;
+  }
+   #option11,#option12,#option13{
+      color:black;
+      padding:10px;
+      border-radius:20px;
+      margin:5px;
+      border:1px solid gray;
+  }
+  #option11:hover,#option12:hover,#option13:hover{
+    cursor: pointer;
+  }
+    #answer11{
+      color:white;
+      padding:10px;
+      border-radius:20px;
+      margin:5px;
+      background-color:gray;
+  }
+
+  /* Question 2 */
+
+
+  #question22{
+      background-color:#2874A6;
+      color:white;
+      padding:10px;
+      border-radius:20px;
+  }
+   #option21,#option22,#option23{
+      color:black;
+      padding:10px;
+      border-radius:20px;
+      margin:5px;
+      border:1px solid gray;
+  }
+  #option21:hover,#option22:hover,#option23:hover{
+    cursor: pointer;
+  }
+    #answer22{
+      color:white;
+      padding:10px;
+      border-radius:20px;
+      margin:5px;
+      background-color:gray;
+  }
